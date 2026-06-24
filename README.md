@@ -132,7 +132,7 @@ cp .env.example .env
 Edit `frontend/.env` if your backend URL differs from the default:
 
 ```env
-VITE_API_URL=http://localhost:5000/api
+VITE_API_URL=https://smart-campus-utility-app.onrender.com/api
 ```
 
 Start the frontend dev server:
